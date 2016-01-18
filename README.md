@@ -1,5 +1,5 @@
-# INSTALAR-PAQUETES-EN-SUBLIME-TEXT-3
-Antes de instalar sftp comprobar que  tenemos instalado el Package control (ctrl+shift+p), sino es así instalarlo desde esta [pagina](https://packagecontrol.io/installation).    
+# INSTALAR-PAQUETES-EN-SUBLIME-TEXT-3  
+Comprobar que tenemos instalado el Package control (ctrl+shift+p), sino es así instalarlo desde esta [pagina](https://packagecontrol.io/installation).    
 
    ![](http://grabilla.com/0520d-f519a486-d25b-4703-af85-3eec40fd771f.png)
   
@@ -21,6 +21,9 @@ Abrimos el package control (ctrl+MAY+p) y empezamos a escribir "pa", nos aparece
 
 ![](http://grabilla.com/0520d-57fe0d4e-a3d1-406a-a895-4ac8f8b64181.png)
 
-una vez seleccionado escribimos sftp y seleccionamos la primera opción, 
+Escribimos Bootstrap y elegimos Bootstrap 3 Jade Snippets  
 
-![](http://grabilla.com/0520d-cb3edfa7-59e8-4cdb-ab69-1226e61d17ee.png)
+Para poder ver los snippets de que disponemos para Bootstrap ir al menú Tools y seleccionar snippets  
+
+
+
