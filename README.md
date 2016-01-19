@@ -13,7 +13,9 @@ Si no tuvieramos installado Sublime Text hay que ir a la página web oficial y d
 Reiniciar Sublime Text 3.  
 
 
-Abrimos el package control (ctrl+MAY+p) y empezamos a escribir "pa", nos aparecera varias opciones bajo seleccionamos "Package control: install package" (Buscarlo en el menú PREFERENCES).  
+Abrimos el package control (ctrl+MAY+p) y empezamos a escribir "pa",  
+nos aparecerán varias opciones  
+seleccionamos "Package control: install package" (Buscarlo en el menú PREFERENCES).  
 
 
 ![](http://grabilla.com/0520d-ded97eae-0ddf-4b16-b685-6e06f51ff6c2.png)  
