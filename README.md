@@ -27,5 +27,5 @@ Escribimos Bootstrap y elegimos Bootstrap 3 Jade Snippets
 
 Para poder ver los snippets de que disponemos para Bootstrap ir al menú Tools y seleccionar snippets  
 
-
+Cada vez que queramos instalar algo nuevo en sublime text hay que entrar en 
 
