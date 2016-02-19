@@ -31,4 +31,4 @@ Para poder ver los snippets de que disponemos para Bootstrap ir al menú Tools y
 
 Recordar que para que emmet funcione hay que seleccionar la opción html en la parte inferior derecha de la pantalla.  
 
-![](http://http://grabilla.com/06213-a7a7faa1-8be0-4cd5-8559-1c85e07fa1e5.png)
+![](http://grabilla.com/06213-a7a7faa1-8be0-4cd5-8559-1c85e07fa1e5.png)
